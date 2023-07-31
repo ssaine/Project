@@ -1,0 +1,4 @@
+
+# this listed files will be ignored
+.DS_Store
+secrets.txt
